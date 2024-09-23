@@ -2,8 +2,8 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import { ThemeProvider } from 'styled-components'
 
-import theme from './Styles/Theme'
-import GlobalStyles from './styles/Global';
+import theme from './Styles/Theme.js'
+import GlobalStyles from './styles/Global.js';
 
 import { Home } from './Pages/Home'
 
