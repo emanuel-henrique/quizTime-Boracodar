@@ -1,5 +1,5 @@
 ## QuizTime | #boraCodar
-![preview](./Preview.png)
+![preview](./Preview.PNG)
 
 > #boraCodar - Rocketseat
 
