@@ -10,7 +10,7 @@ Nesse projeto aprimorei mais os meus conceitos sobre o React, com componentizaç
  - Abaixo está o link com o projeto.
 
 
-[🔗 Clique aqui para acessar](https://focus-timer-rocket.netlify.app/)
+[🔗 Clique aqui para acessar]([https://focus-timer-rocket.netlify.app/](https://app.netlify.com/sites/quiztimeboracodar/deploys/))
 
 ## 🛠️ Tecnologias
 
