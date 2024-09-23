@@ -1,7 +1,7 @@
 ## QuizTime | #boraCodar
 ![preview](./Preview.png)
 
-> Trilha Explorer
+> #boraCodar - Rocketseat
 
 QuizTime | #boraCodar
 
